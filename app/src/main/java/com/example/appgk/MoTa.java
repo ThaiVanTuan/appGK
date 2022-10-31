@@ -27,5 +27,6 @@ public class MoTa extends AppCompatActivity {
         txt_tennhacsi.setText(intent.getStringExtra("key3"));
         txt_tencasi.setText(intent.getStringExtra("key4"));
         txt_mota.setText(intent.getStringExtra("key5"));
+
     }
 }
